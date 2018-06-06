@@ -1,0 +1,92 @@
+{
+    "RECORDS": [
+        {
+            "ORDER_TYPE": "用户上线",
+            "ctype": "785362"
+        },
+        {
+            "ORDER_TYPE": "账单查询",
+            "ctype": "677225"
+        },
+        {
+            "ORDER_TYPE": "抄表服务",
+            "ctype": "398155"
+        },
+        {
+            "ORDER_TYPE": "缴费服务",
+            "ctype": "278205"
+        },
+        {
+            "ORDER_TYPE": "用户注册",
+            "ctype": "82104"
+        },
+        {
+            "ORDER_TYPE": "液化气服务",
+            "ctype": "80623"
+        },
+        {
+            "ORDER_TYPE": "燃气报修",
+            "ctype": "48817"
+        },
+        {
+            "ORDER_TYPE": "员工识别",
+            "ctype": "40893"
+        },
+        {
+            "ORDER_TYPE": "关于我们",
+            "ctype": "40679"
+        },
+        {
+            "ORDER_TYPE": "线上活动",
+            "ctype": "40407"
+        },
+        {
+            "ORDER_TYPE": "业务申请",
+            "ctype": "24362"
+        },
+        {
+            "ORDER_TYPE": "便民服务",
+            "ctype": "19867"
+        },
+        {
+            "ORDER_TYPE": "意见反馈",
+            "ctype": "8336"
+        },
+        {
+            "ORDER_TYPE": "便民信息",
+            "ctype": "6171"
+        },
+        {
+            "ORDER_TYPE": "网上商城",
+            "ctype": "4962"
+        },
+        {
+            "ORDER_TYPE": "用户验证密码",
+            "ctype": "4821"
+        },
+        {
+            "ORDER_TYPE": "非居业务",
+            "ctype": "1364"
+        },
+        {
+            "ORDER_TYPE": "帮助文档",
+            "ctype": "1360"
+        },
+        {
+            "ORDER_TYPE": "新装燃气",
+            "ctype": "325"
+        },
+        {
+            "ORDER_TYPE": "用户修改密码",
+            "ctype": "168"
+        },
+        {
+            "ORDER_TYPE": "非居民业务办理",
+            "ctype": "6"
+        },
+        {
+            "ORDER_TYPE": "",
+            "ctype": "0"
+        }
+    ]
+}

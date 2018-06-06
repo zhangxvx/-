@@ -1,0 +1,76 @@
+{
+    "RECORDS": [
+        {
+            "ORDER_TYPE": "网上支付",
+            "ctype": "438563"
+        },
+        {
+            "ORDER_TYPE": "APP自抄",
+            "ctype": "102195"
+        },
+        {
+            "ORDER_TYPE": "业务",
+            "ctype": "4505"
+        },
+        {
+            "ORDER_TYPE": "微信平台",
+            "ctype": "2374"
+        },
+        {
+            "ORDER_TYPE": "问题反馈",
+            "ctype": "2277"
+        },
+        {
+            "ORDER_TYPE": "其他报修",
+            "ctype": "742"
+        },
+        {
+            "ORDER_TYPE": "安检",
+            "ctype": "633"
+        },
+        {
+            "ORDER_TYPE": "一般维修",
+            "ctype": "559"
+        },
+        {
+            "ORDER_TYPE": "帐单问题",
+            "ctype": "241"
+        },
+        {
+            "ORDER_TYPE": "APP",
+            "ctype": "114"
+        },
+        {
+            "ORDER_TYPE": "服务投诉",
+            "ctype": "114"
+        },
+        {
+            "ORDER_TYPE": "账单问题",
+            "ctype": "88"
+        },
+        {
+            "ORDER_TYPE": "液化气送瓶",
+            "ctype": "66"
+        },
+        {
+            "ORDER_TYPE": "账务投诉",
+            "ctype": "63"
+        },
+        {
+            "ORDER_TYPE": "业务投诉",
+            "ctype": "25"
+        },
+        {
+            "ORDER_TYPE": "门户网站",
+            "ctype": "24"
+        },
+        {
+            "ORDER_TYPE": "支付宝平台",
+            "ctype": "10"
+        },
+        {
+            "ORDER_TYPE": "",
+            "ctype": "0"
+        }
+    ]
+}

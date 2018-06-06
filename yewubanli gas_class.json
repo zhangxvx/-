@@ -1,0 +1,116 @@
+{
+    "RECORDS": [
+        {
+            "GAS_CLASS": "天然气付费",
+            "count": "438563"
+        },
+        {
+            "GAS_CLASS": "自抄",
+            "count": "100848"
+        },
+        {
+            "GAS_CLASS": "取消纸质帐单申请",
+            "count": "2911"
+        },
+        {
+            "GAS_CLASS": "充值服务",
+            "count": "2522"
+        },
+        {
+            "GAS_CLASS": "账务投诉",
+            "count": "1367"
+        },
+        {
+            "GAS_CLASS": "自拍",
+            "count": "1347"
+        },
+        {
+            "GAS_CLASS": "问题反馈",
+            "count": "684"
+        },
+        {
+            "GAS_CLASS": "其它报修",
+            "count": "612"
+        },
+        {
+            "GAS_CLASS": "安全检查",
+            "count": "553"
+        },
+        {
+            "GAS_CLASS": "新装",
+            "count": "511"
+        },
+        {
+            "GAS_CLASS": "无气",
+            "count": "449"
+        },
+        {
+            "GAS_CLASS": "移、添、改、拆装",
+            "count": "347"
+        },
+        {
+            "GAS_CLASS": "服务投诉",
+            "count": "322"
+        },
+        {
+            "GAS_CLASS": "帐单未收到",
+            "count": "241"
+        },
+        {
+            "GAS_CLASS": "液化气开户居",
+            "count": "235"
+        },
+        {
+            "GAS_CLASS": "取消纸质账单申请",
+            "count": "231"
+        },
+        {
+            "GAS_CLASS": "移添改拆申请",
+            "count": "189"
+        },
+        {
+            "GAS_CLASS": "其他燃气报修",
+            "count": "130"
+        },
+        {
+            "GAS_CLASS": "火小",
+            "count": "110"
+        },
+        {
+            "GAS_CLASS": "业务投诉",
+            "count": "96"
+        },
+        {
+            "GAS_CLASS": "账单未收到",
+            "count": "85"
+        },
+        {
+            "GAS_CLASS": "免费安检",
+            "count": "80"
+        },
+        {
+            "GAS_CLASS": "液化气送瓶预约服务",
+            "count": "66"
+        },
+        {
+            "GAS_CLASS": "液化气开户非",
+            "count": "54"
+        },
+        {
+            "GAS_CLASS": "液化气送瓶申请",
+            "count": "27"
+        },
+        {
+            "GAS_CLASS": "质量投诉",
+            "count": "10"
+        },
+        {
+            "GAS_CLASS": "财务投诉",
+            "count": "5"
+        },
+        {
+            "GAS_CLASS": "取消纸质账单",
+            "count": "3"
+        }
+    ]
+}
